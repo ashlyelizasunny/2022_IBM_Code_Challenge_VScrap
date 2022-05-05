@@ -181,7 +181,7 @@ new and modern ones.
               <div class="col-lg-3 info" data-aos="fade-up">
                 <i class="bx bx-map"></i>
                 <h4>Address</h4>
-                <p>RIT<br>Kottayam</p>
+                <p>RIT<br>Kottayam </p>
               </div>
               <div class="col-lg-3 info" data-aos="fade-up" data-aos-delay="100">
                 <i class="bx bx-phone"></i>
