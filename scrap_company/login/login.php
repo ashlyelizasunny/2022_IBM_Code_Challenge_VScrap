@@ -28,7 +28,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-7">
-            <h3>Login to <strong>CareCycle</strong></h3>
+            <h3>Login to <strong>VScrap</strong></h3>
             
             <form action="login_exe.php" method="post">
               <div class="form-group first">
