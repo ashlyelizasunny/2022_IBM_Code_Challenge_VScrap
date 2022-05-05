@@ -68,7 +68,7 @@
         <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up">
           <div>
             <h1>VScrap</h1>
-            <h2>  ”Scrappage Policy Automation” is a web
+            <h2>  ”VScrap” is a web
 application that allows the user to register for scrappage of
 their vehicles.</h2>
             <a href="login/register.php" class="download-btn"><i class="bx bxl-play-store"></i> Register</a>
