@@ -7,7 +7,7 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Your CareCycle 2022</span>
+            <span>Copyright &copy; Your VScrap 2022</span>
           </div>
         </div>
       </footer>
