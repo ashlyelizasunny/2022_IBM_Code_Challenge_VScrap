@@ -166,7 +166,7 @@ new and modern ones.
       </div>
     </section><!-- End Frequently Asked Questions Section -->
 
-    <!-- ======= Contact Section ======= -->
+    <!-- ======= Contact Section      ======= -->
     <section id="contact" class="contact">
       <div class="container">
 
