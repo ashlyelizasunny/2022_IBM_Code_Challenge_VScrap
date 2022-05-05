@@ -58,7 +58,7 @@ $username=$_SESSION['username'];
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fa fa-recycle"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">CareCycle </div>
+        <div class="sidebar-brand-text mx-3">VScrap  </div>
       </a>
 
       <!-- Divider -->
