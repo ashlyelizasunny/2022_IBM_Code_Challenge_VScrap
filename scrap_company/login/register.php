@@ -48,7 +48,7 @@ function verifyPassword() {
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-7">
-            <h3>Register to <strong>CareCycle</strong></h3>
+            <h3>Register to <strong>VScrap</strong></h3>
 
             <form onsubmit ="return verifyPassword()" action="register_exe.php" method="post" autocomplete="off">
               <div class="form-group first">
