@@ -8,9 +8,11 @@ The scrappage policy launched on August 13th 2021,is a government founded progra
 # Architecture
 
 # Team Mates
- (Code Section , PPT)
- (Code Section , PPT)
- (Code Section , PPT)
+ Markup : * Anto Varghese (Code Section , PPT)
+          * Abhinandh N K (Code Section , PPT)
+          * Harikrishnan Nair K G (Code Section , PPT)
+          * Ashly Elizabeth Sunny (Code Section , PPT)
+          * Karthik Suresh (Code Section , PPT)
 
 # Features
 
