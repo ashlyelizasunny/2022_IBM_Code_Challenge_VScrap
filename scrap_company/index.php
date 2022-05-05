@@ -186,12 +186,12 @@ new and modern ones.
               <div class="col-lg-3 info" data-aos="fade-up" data-aos-delay="100">
                 <i class="bx bx-phone"></i>
                 <h4>Call Us</h4>
-                <p>+919645961799</p>
+                <p>+919645961899</p>
               </div>
               <div class="col-lg-3 info" data-aos="fade-up" data-aos-delay="200">
                 <i class="bx bx-envelope"></i>
                 <h4>Email Us</h4>
-                <p>contact@example.com<br>info@example.com</p>
+                <p>contact@example.com<br>info@gmail.com</p>
               </div>
               <div class="col-lg-3 info" data-aos="fade-up" data-aos-delay="300">
                 <i class="bx bx-time-five"></i>
