@@ -67,7 +67,7 @@
       <div class="row">
         <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up">
           <div>
-            <h1>Scrappage Policy Automation</h1>
+            <h1>VScrap</h1>
             <h2>  ”Scrappage Policy Automation” is a web
 application that allows the user to register for scrappage of
 their vehicles.</h2>
