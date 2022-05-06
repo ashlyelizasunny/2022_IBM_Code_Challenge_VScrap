@@ -1,17 +1,23 @@
 # 2022_IBM_Code_Challenge_VScrap
 This project is made as part of IBM ISL Good Tech Scholar program 2022. This Application allows the user to register for scrappage of their vehicles.
+
 ## Problem Statement
 The scrappage policy launched on August 13th 2021,is a government founded programme to replace old vehicles to new and modern ones. As per the vehicle scrappage policy 2021, private cars that are older than 20 years and commercial vehicles older than 15 years will be deregistered.The vehicles that pass the test can be re-registered. But those vehicles failing the test need to be scrapped.
-The key objective behind the new scrappage policy is to figure out those unfit vehicles and methodically recycle them. The eventual aim behind the scrap policy is to eliminate the pollution in the environment caused by such vehicles.His car scrappage policy will reduce pollution and also provide other benefits. It means that it will enable to recycling of things such as steel, plastic, and other metals. The manufacturing cost will also be reduced. With the vehicle scrappage policy in place, it is expected that the vehicle sale will increase.But there is no real time applications,that allows the users to register for scrappage of vehicle through an online mode.The project entittled ”VScrap” is a web application that allows the user to register for scrappage of their vehicles and can schedule their own date and scrap company as per their covinence
+# 
+The key objective behind the new scrappage policy is to figure out those unfit vehicles and methodically recycle them. The eventual aim behind the scrap policy is to eliminate the pollution in the environment caused by such vehicles. This car scrappage policy will reduce pollution and also provide other benefits. It means that it will enable to recycling of things such as steel, plastic, and other metals. The manufacturing cost will also be reduced. With the vehicle scrappage policy in place, it is expected that the vehicle sale will increase.
+#
+But, there is no real time applications,that allows the users to register for scrappage of vehicle in online mode.The project entitled ”VScrap” is a web application that allows the user to register for scrappage of their vehicles and schedule the date as per their convenience.
 
 ## Personas of the System
+
+VScrap is a real time project, which is useful for both employees as well as for the public who are facing problems with the current manual work.
 
 ![WhatsApp Image 2022-05-05 at 10 40 41 PM (1)](https://user-images.githubusercontent.com/84320126/167055482-5bf00432-1cfc-4913-b255-b1d9ff3aebf2.jpeg)
 
 
 ## Architecture
 
-![photo_2022-05-06_09-39-13](https://user-images.githubusercontent.com/65915477/167065523-2dc9b249-5904-4834-95e3-018523d1444e.jpg
+![photo_2022-05-06_09-39-13](https://user-images.githubusercontent.com/65915477/167065628-4ec6b50f-fb7d-4a3c-8df4-cb7fd0e21fbd.jpg)
 
 
 ## Team Mates
@@ -22,6 +28,15 @@ The key objective behind the new scrappage policy is to figure out those unfit v
  * Karthik Suresh (Code Section , PPT)
 
 ## Features
+
+ * Higly Interactive UI for all users
+ * User authentication is done
+ * Provide security
+ * Improve efficiency
+ * Provide high maintenance of records
+ * User is able to select their own scheduled date and the scrap company
+ * Can download the scrap certificate from anywhere at any time
+
 
 ## Screens
 Home Page
