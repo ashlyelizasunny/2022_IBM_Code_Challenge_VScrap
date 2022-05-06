@@ -49,7 +49,7 @@ VScrap is a real time project, which is useful for both employees as well as for
 
 ## Features
 
- * Higly Interactive UI for all users
+ * Highly Interactive UI for all users
  * User authentication is done
  * Provide security
  * Improve efficiency
