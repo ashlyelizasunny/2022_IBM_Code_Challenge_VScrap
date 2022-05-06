@@ -81,7 +81,7 @@ Registration using QRcode
 
 
 ## Presentation
-Please find the presentation and demo in this [link]().
+Please find the presentation and demo in this [link](https://drive.google.com/drive/folders/1zQR3j_7xQl30drzExHn9Ru13Fe4TDwsm?usp=sharing).
 
 
 
