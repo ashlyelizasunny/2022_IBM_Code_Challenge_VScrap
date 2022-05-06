@@ -16,8 +16,15 @@ The scrappage policy launched on August 13th 2021,is a government founded progra
 # Features
 
 # Screens
-Home Screen
+Home Page
 ![WhatsApp Image 2022-05-05 at 10 34 42 PM](https://user-images.githubusercontent.com/84320126/167052131-24b76cdf-f574-4b93-ad4e-6bcd3ddaec07.jpeg)
+
+Login Page![WhatsApp Image 2022-05-05 at 10 34 44 PM](https://user-images.githubusercontent.com/84320126/167053192-7171ea83-5ac3-4255-92b3-508afc024ef9.jpeg)
+
+Sign Up Page
+
+![WhatsApp Image 2022-05-05 at 10 34 44 PM (1)](https://user-images.githubusercontent.com/84320126/167053405-0e27e308-1054-4900-a430-0821f6ac42cb.jpeg)
+
 
 
 
