@@ -54,8 +54,11 @@ VScrap is a real time project, which is useful for both employees as well as for
  * Provide security
  * Improve efficiency
  * Provide high maintenance of records
+ * Scanning QR code
  * User is able to select their own scheduled date and the scrap company
+ * Verify the user details and give a confirmation message to admin
  * Can download the scrap certificate from anywhere at any time
+ 
 
 
 ## Screens
